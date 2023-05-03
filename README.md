@@ -1,6 +1,6 @@
 # 2d-dft-fft-example
 
-Here is the C code example of 1-d, 2-d Discrete Fourier Transform and Fast Fourier Transform.
+Here is the C code example of 1 dimensional, 2 dimensional Discrete Fourier Transform and Fast Fourier Transform.
 The FFT is implemented with Cooley-Tukey Algorithm.
 For more detail, consider the followings: 
 [Discrete Fourier Transform Wiki](https://en.wikipedia.org/wiki/Discrete_Fourier_transform)
